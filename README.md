@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="github/assets/logo.svg" alt="Animavita" height="125" width="125">
+  <img src="github/assets/logo.svg" alt="Logo" height="145" width="145">
   <br>
 </h1>
 
