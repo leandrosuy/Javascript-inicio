@@ -8,12 +8,12 @@
 
 <p align="center">Neste projeto inicio o estudo mais focado de Javascript, onde acompanho o curso e outros materiais como ferramenta base de conhecimento.</p>
 
-[✔️] - Manipulação de variáveis
-[ ] - Comandos de entrada
-[ ] - Entendendo funções
-[ ] - Trabalhando com arrays
-[ ] - Manipulando arrays
-[ ] - Aprendendo loops
-[ ] - Conhecendo switch
-[ ] - Manipulando datas
+[✔️] - Manipulação de variáveis<br/>
+[ ] - Comandos de entrada<br/>
+[ ] - Entendendo funções<br/>
+[ ] - Trabalhando com arrays<br/>
+[ ] - Manipulando arrays<br/>
+[ ] - Aprendendo loops<br/>
+[ ] - Conhecendo switch<br/>
+[ ] - Manipulando datas<br/>
 [ ] - Praticando conhecimentos
